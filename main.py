@@ -1,2 +1,2 @@
-for i in range(10):
-  print('A number:', i)
+print ("This is lame!")
+print ("JavaScript is better")
