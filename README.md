@@ -1,3 +1,3 @@
 # LearnPy
 Learning python <br />
-I also learning Markdown <br />
+I am also learning Markdown <br />
